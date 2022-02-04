@@ -8,7 +8,11 @@ Rencana belajar Bagasta
 - JAVASCIRPT  (Dasar, DOM, Advanced)
  (Framework Javascript)
  <react>
- <Vue>
+ - Vue
+ - Angular
+ - React
+- Memakai PostgreSQL
+- Belajar Odoo
 - Memakai PostgreSQL
 - Belajar Odoo
 - Belajar ERP

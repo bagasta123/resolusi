@@ -20,3 +20,7 @@ Rencana belajar Bagasta
 - PHP
   Framerwork
   Laravel
+- Node JS
+- Mongo DB
+- Flask
+- Django

@@ -7,7 +7,12 @@ Rencana belajar Bagasta
 - Hatam GIT & GITHUB
 - JAVASCIRPT  (Dasar, DOM, Advanced)
  (Framework Javascript)
+ <react>
+ <Vue>
 - Memakai PostgreSQL
 - Belajar Odoo
 - Belajar ERP
 - Hatamin Javascript
+- PHP
+  Framerwork
+  Laravel

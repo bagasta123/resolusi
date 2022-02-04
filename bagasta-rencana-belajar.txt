@@ -2,6 +2,7 @@ Rencana belajar Bagasta
 
 - Python Dasar
 - Python OOP
+- Selesaikan web aplikasi buat skripsi
 - Pyhton Backend
 - Hatam GIT & GITHUB
 - JAVASCIRPT  (Dasar, DOM, Advanced)

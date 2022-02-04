@@ -11,3 +11,4 @@ Rencana belajar Bagasta
  - Angular
  - React
 - Memakai PostgreSQL
+- Belajar Odoo

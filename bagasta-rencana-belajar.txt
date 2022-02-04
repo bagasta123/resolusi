@@ -8,3 +8,5 @@ Rencana belajar Bagasta
 - JAVASCIRPT  (Dasar, DOM, Advanced)
  (Framework Javascript)
 - Memakai PostgreSQL
+- Belajar Odoo
+- Belajar ERP

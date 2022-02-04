@@ -1,8 +1,9 @@
 Rencana belajar Bagasta
 
 - Python Dasar
--Python OOP
+- Python OOP
 - Pyhton Backend
 - Hatam GIT & GITHUB
-- JAVASCIRPtT  (Dasar, DOM, Advanced)
+- JAVASCIRPT  (Dasar, DOM, Advanced)
+ (Framework Javascript)
 - Memakai PostgreSQL

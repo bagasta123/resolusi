@@ -10,3 +10,4 @@ Rencana belajar Bagasta
 - Memakai PostgreSQL
 - Belajar Odoo
 - Belajar ERP
+- Hatamin Javascript
